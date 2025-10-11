@@ -1,7 +1,7 @@
 # UE-Python-Scripts
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-5.3+-blue.svg)](https://www.unrealengine.com/)
+[![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-5.0+-blue.svg)](https://www.unrealengine.com/)
 [![Python](https://img.shields.io/badge/Python-3.7+-green.svg)](https://www.python.org/)
 
 > 🎮 专为Unreal Engine设计的Python脚本集合，提供强大的编辑器自动化工具和批量处理功能
@@ -21,9 +21,9 @@ UE-Python-Scripts是一个专门为Unreal Engine开发者设计的Python脚本�
 
 ### 前置要求
 
-- Unreal Engine 5.3+
+- Unreal Engine 5.0+
 - Python 3.7+
-- [Python Script Manager Plugin](https://github.com/eish1997/python-script-manager) (推荐)
+- [Python Script Manager Plugin](https://github.com/eish1997/UE-Python-Scripts-Manage) (推荐)
 
 ### 安装方法
 
